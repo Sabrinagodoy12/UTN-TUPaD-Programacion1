@@ -9,4 +9,4 @@ Trabajos prácticos que se realizan en la materia Programación 1 de la Tecnicat
 
 ## Trabajos que contiene este proyecto
 
-- Unidad 1 - TP Secuenciales
+- Unidad 1 - TP Secuenciales y readme
