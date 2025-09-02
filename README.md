@@ -1,6 +1,6 @@
 # UTN-TUPaD-Programacion1
 
-Trabajos prácticos que se realizan en la materia Programación 1 de la Tecnicatura en programación en UTN.
+Trabajos prácticos que se realizan en la materia Programación 1 de la Tecnicatura Universitaria en programación en UTN.
 
 ## Mis Datos
 
@@ -10,3 +10,5 @@ Trabajos prácticos que se realizan en la materia Programación 1 de la Tecnicat
 ## Trabajos que contiene este proyecto
 
 - Unidad 1 - TP Secuenciales
+- Unidad 3 - TP Condicionales
+- Unidad 4 - TP Repetitivas
