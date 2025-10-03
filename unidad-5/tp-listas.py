@@ -221,7 +221,6 @@ for fila in tablero:
 jugadas = 0
 jugador= "X"
 
-
 #El juego se repetirá hasta que llegue a 9
 while jugadas < 9:
     print(f"Turno del jugador {jugador}")
