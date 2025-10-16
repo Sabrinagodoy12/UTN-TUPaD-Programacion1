@@ -1,0 +1,4 @@
+Cuadernillo,10000.0,10
+Abrochadora,8000.0,6
+Resaltadores,6000.0,8
+Pegatinas,123.0,4
